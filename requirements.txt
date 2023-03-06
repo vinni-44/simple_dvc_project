@@ -1,0 +1,27 @@
+
+
+#dvc 
+
+dvc
+dvc[gdrive]
+pandas 
+scikit-learn
+
+#python libraries
+pandas
+scikit-learn
+
+
+#webapp
+
+flask
+
+
+#testings
+
+pytest
+tox
+flake8
+
+
+
