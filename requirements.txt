@@ -1,27 +1,19 @@
+# local lib
+-e .
 
-
-#dvc 
-
+# dvc
 dvc
 dvc[gdrive]
-pandas 
-scikit-learn
+dvc[s3]
 
-#python libraries
+# other important libs
 pandas
 scikit-learn
 
-
-#webapp
-
-flask
-
-
-#testings
-
+# testing 
 pytest
 tox
-flake8
+flake8 
 
-
-
+# webapp
+flask
